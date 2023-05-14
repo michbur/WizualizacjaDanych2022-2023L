@@ -523,7 +523,7 @@ Zbyt duża ilość informacji na jednym wykresie.
 
 ## Trzeci wymiar
 
-<img src="https://datavizproject.com/wp-content/uploads/2017/08/Sk%C3%A6rmbillede-2017-08-31-kl.-17.21.12.png" width="600px">
+<img src="https://www.oldstreetsolutions.com/wp-content/uploads/2021/05/3D-Chart-1024x803.png" width="600px">
 
 ## Wykresy kołowe
 
@@ -595,7 +595,7 @@ Nadmiar stylizacji wykresu może zmniejszać czytelność wykresu.
 
 ## Prostota
 
-<a href="https://www.visualcapitalist.com/wp-content/uploads/2020/03/DeadliestPandemics-Infographic-87.jpg"><img src="https://www.visualcapitalist.com/wp-content/uploads/2020/03/DeadliestPandemics-Infographic-87.jpg" width="700px"></a>
+<a href="https://www.visualcapitalist.com/wp-content/uploads/2023/03/HoP-Main-Graphic-03012023.jpg"><img src="https://www.visualcapitalist.com/wp-content/uploads/2023/03/HoP-Main-Graphic-03012023.jpg" width="700px"></a>
 
 ## Zadanie 2
 

@@ -165,7 +165,7 @@ Wykresy 3D w **R**: https://github.com/tylermorganwall/rayshader
 
 ## Infografiki
 
-Inspiracje: [VennGage](https://cmdsonline.com/)
+Inspiracje: [CMDSonline](https://cmdsonline.com/)
 
 <img src="https://www.cmdsonline.com/wp-content/uploads/10.15.CMDS_.InfographiconInfographics.png" width="300px" class="center">
 
@@ -675,6 +675,12 @@ Brian Granger, uzasadniając stworzenie Altaira: *I love Python, but do my visua
 - Małe wsparcie dla typowo stastycznych wizualizacji
 
 Pakiet R: https://github.com/vegawidget/altair (używa reticulate).
+
+## plotnine (Python)
+
+Podobnie do altair, inspirowane gramatyką grafiki do wizualizacji danych. W przeciwieństwie do altair, jest dokładną kopią ggplot2, włącznie ze składnią.
+
+https://github.com/has2k1/plotnine
 
 ## bokeh (Python)
 
